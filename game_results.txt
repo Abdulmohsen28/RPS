@@ -1,0 +1,13 @@
+Player: rock, Computer: paper, Result: loss
+Player: paper, Computer: rock, Result: win
+Player: paper, Computer: rock, Result: win
+Player: scissors, Computer: scissors, Result: tie
+Player: papwer, Computer: rock, Result: loss
+Player: paper, Computer: rock, Result: win
+Player: paper, Computer: rock, Result: win
+Player: rock, Computer: rock, Result: tie
+Player: rock, Computer: rock, Result: tie
+Player: paper, Computer: scissors, Result: loss
+Player: rock, Computer: rock, Result: tie
+Player: rock, Computer: paper, Result: loss
+Player: paper, Computer: paper, Result: tie
